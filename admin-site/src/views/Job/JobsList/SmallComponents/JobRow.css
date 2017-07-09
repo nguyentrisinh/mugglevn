@@ -1,0 +1,17 @@
+.job-header{
+    font-size: 22px;
+}
+.job-detail{
+    font-size: 15px;
+}
+.salary-detail{
+    /*padding-botton: 0px;*/
+    margin-bottom: 0px;
+}
+
+.margin{
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+    border-radius: 8px;
+}
